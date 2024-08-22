@@ -1,1 +1,6 @@
 Flask
+gunicorn
+scikit-learn
+pandas
+numpy
+-e .  # will install the lib that we created locally and for that we need setup.py file
